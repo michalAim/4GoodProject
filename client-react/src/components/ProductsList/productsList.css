@@ -1,0 +1,146 @@
+
+.firstPic{
+height: 10rem;
+margin:5px ;
+}
+
+ img{ 
+     margin:15px; 
+    /* padding: 15px;
+    height:250px; */
+   } 
+  
+.text_title{
+  font-size: 33px;
+  padding-left: 120%;
+  padding-top: 10%;
+  margin-top: 10%;
+  font-style:normal;
+  color: #3A3A3B;
+  font-weight: bold;
+}
+.topBarText{
+  font-size:12px;
+  font-style:normal;
+  color:rgb(122, 117, 117);
+  line-height:1.8;
+}
+
+.joinButton{
+  background-color: black;
+  border-color :black;
+  border-radius: 4px;
+  border-width: 0.5px;
+  color:white;
+  width: 100px;
+  text-align: center;
+  font-size: 14px;
+  height: 30px;
+  float: 'right';
+  margin-top: 35px;
+  margin-right: 20px;
+
+}
+
+td {
+   border-bottom: 1px solid gray;
+   border: 0px 1px 0px 0px;
+   padding: 5px;
+   font-size: 14px;
+   text-align: right;
+   height: 30px;
+}
+
+  .topBarbutton{
+      background-color: white;
+      border-color :blanchedalmond;
+      border-width: 0.5px;
+      color:black;
+      width: 120px;
+      text-align: center;
+      font-size: 14px;
+      height: 40px;
+      float: 'right';
+      margin-top: 30px;
+    
+  }
+
+  .categoriesButton{
+    background-color: lightgray;
+    border-color :black;
+    border-width: 0.5px;
+    color:black;
+    width: 120px;
+    text-align: center;
+    font-size: 14px;
+    height: 40px;
+    float: 'right';
+    margin-left: 30px;
+    margin-top: 20px;
+    padding-top: 0px ;
+    border-radius: 8px;
+    height: 30px;
+  
+}
+
+  .topBarbutton:focus{
+    border-color: #3A3A3B;
+
+  }
+
+  .dolar{
+    margin-left: 150px;
+    padding-right: 30px;
+  }
+  
+  .dolar_icon{
+    height:80px;
+   margin-right: 30px;
+  }
+  
+  .sub_text{
+    color:rgb(122, 117, 117);
+    margin-right: 30px;
+  }
+
+  .line_icon{
+    height: 40px;
+    padding: 12px 100px;
+
+  }
+  
+  .icon_shopping{
+    height: 80px;
+    margin-right: 30px;
+  }
+  
+  .icon_magnifier{
+    height: 80px;
+    margin-right: 30px;
+
+  }
+  .text_title_icon 
+  {
+    font-size:18px;
+    font-style:normal;
+    color: black;
+    font-weight: bold;
+    margin-right: 30px;
+  }
+
+  .icon_id_card{
+    height: 80px;
+  }
+  
+  .icon_Education_tolerance_humanRights{
+  height:90px;
+  /* margin-right: 30px; */
+  padding-left: 102px;
+  
+  }
+
+  .sub_text_thirdPart{
+    color:rgb(122, 117, 117);
+    padding: 50px;
+    padding-top: 100px;
+  }

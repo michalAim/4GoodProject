@@ -1,0 +1,40 @@
+
+
+/* First part */
+button{
+    background-color:#3A3A3B;
+    border: none;
+    color: white;
+    padding: 12px 65px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     font-size: 10px;
+     border-radius: 3px;
+     font-weight: bold;
+  }
+
+  /* Second part */
+
+  .icon_sub{
+    size: 10px;
+  }
+
+
+  /* Five part*/
+
+  .subQ
+  {
+    font-size: 15px;
+     font-weight:bold;
+    text-align:right; 
+    color:gray;
+  }
+
+.Answer
+{
+  font-size: 13px;
+  text-align:right; 
+  color:gray;
+  direction:rtl;
+}
